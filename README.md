@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning
+  - pipelines
+  - automation tooling
+  - ansbile
+- 💬 Lets chat about: automation, coffee, and communities
+- 📫 How to reach me: ...
+  - [Mastodon](https://toot.community/@x1101)
+- 😄 Pronouns: He/Him
